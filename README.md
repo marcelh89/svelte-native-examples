@@ -1,1 +1,1 @@
-Collecton of Sample project with https://svelte-native.technology/
+A Collecton of sample projects with https://svelte-native.technology/
