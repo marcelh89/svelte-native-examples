@@ -1,0 +1,1 @@
+Collecton of Sample project with https://svelte-native.technology/
